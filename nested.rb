@@ -95,7 +95,7 @@ programmer_hash[:yukihiro_matsumoto][:known_for] = {:languages => ["LISP", "C"]}
 programmer_hash
 end
 
-
+pp adding_matz
 
 
 def changing_alan
